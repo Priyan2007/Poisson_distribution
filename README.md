@@ -1,3 +1,5 @@
+## Developed By: PRIYAN
+## Reg No: 212224230211
 # Fitting Poisson  distribution
 # Aim : 
 
